@@ -90,18 +90,27 @@ cv2.imshow("Otsu method",th3)
 ### Original Image
 ![image](https://user-images.githubusercontent.com/93427186/173877555-5b9407e1-944e-446f-8d5a-f419cd15045d.png)
 
-### Global Thresholding
-![image](https://user-images.githubusercontent.com/93427186/173877661-3d6ebeb3-f0da-4c87-93dc-dfbb85789cde.png)
+![image](https://user-images.githubusercontent.com/93427186/173879500-f8ba1ab1-fd04-42a5-9c87-9ecfa284cbf0.png)
 
+### Global Thresholding
+
+![image](https://user-images.githubusercontent.com/93427186/173879558-24119005-dec1-4d40-88b1-3d9dfe1e11dd.png)
+
+![image](https://user-images.githubusercontent.com/93427186/173879609-117dd171-c119-4db5-814d-55b49d073483.png)
+
+![image](https://user-images.githubusercontent.com/93427186/173879639-70c3c210-df5d-4e97-b512-faaaec329910.png)
 
 ### Adaptive Thresholding
-![image](https://user-images.githubusercontent.com/93427186/173877703-ff565124-db72-4d33-804f-3c972478ea60.png)
+
+![image](https://user-images.githubusercontent.com/93427186/173879670-b2fbe911-51cd-440d-83ab-034cde5358cb.png)
+
+![image](https://user-images.githubusercontent.com/93427186/173879693-7dbf3b90-d98e-40df-81c6-d70b406f2ed2.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://user-images.githubusercontent.com/93427186/173877822-2a94e474-be50-4dc0-ab81-268e9479f0dd.png)
 
-### Use Otsu's method to segment the image 
-![image](https://user-images.githubusercontent.com/93427186/173877907-c9eb9a7e-2bf2-47bf-953c-6a28f052cbae.png)
+![image](https://user-images.githubusercontent.com/93427186/173879738-f0bfd3d6-4674-482c-bc1e-6c2c661ff012.png)
+
+
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
