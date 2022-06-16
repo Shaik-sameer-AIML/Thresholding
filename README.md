@@ -88,17 +88,20 @@ cv2.imshow("Otsu method",th3)
 ## Output
 
 ### Original Image
-
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/1.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/2.PNG?raw=true)
 
 ### Global Thresholding
-
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/3.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/4.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/5.PNG?raw=true)
 
 ### Adaptive Thresholding
 
-
-
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/6.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/7.PNG?raw=true)
 ### Optimum Global Thesholding using Otsu's Method
-
+![output](https://github.com/Shaik-sameer-AIML/Thresholding/blob/main/8.PNG?raw=true)
 
 
 ## Result
